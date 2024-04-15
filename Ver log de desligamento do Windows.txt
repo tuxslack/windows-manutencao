@@ -1,0 +1,40 @@
+
+Ver log de desligamento do Windows
+
+
+Windows 10 - desligamento inesperado
+====================================
+
+
+
+Log de Eventos do Windows
+-------------------------
+
+Para acessar os eventos, pressione as teclas Windows + R, digite: eventvwr.msc confirme com OK.
+
+Abra a pasta Logs do Windows, navegue pelas pastas após o sistema reiniciar automaticamente, 
+e procure pela crítica de nome "Error". Geralmente exibirá detalhes do problema. 
+
+Caso desejar, poderá voltar a um ponto anterior, pode ser algo relacionado com a build atual.
+
+
+
+Restaurar um ponto anterior
+---------------------------
+
+Você pode tentar voltar a um ponto anterior para verificar se fica de acordo. Para isso, 
+utilize o passo a seguir.
+
+Utilize as teclas Windows + R, e digite: rstrui  e confirme com OK.
+    
+Clique em avançar, selecione uma data anterior onde não ocorria essa dificuldade, e clique 
+em avançar e Concluir.
+
+Aguarde finalizar a restauração do ponto anterior, e realize o teste.
+
+
+
+Fonte:
+
+https://answers.microsoft.com/pt-br/insider/forum/all/windows-10-desligamento-inesperado/93a95511-3f23-4348-8bb1-5fabb8d639d7
+
