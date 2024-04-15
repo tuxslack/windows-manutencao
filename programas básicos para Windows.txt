@@ -237,6 +237,19 @@ Memtest86+ (para teste de memória RAM) => https://memtest.org/
 
 # ---------------------------------------------------------------------------------------
 
+Active@ Partition Recovery
+
+Promete restaurar suas partições perdidas ou danificadas e recuperar seus dados preciosos.
+
+https://www.lsoft.net/partition-recovery/
+
+
+Partição deletada e arquivos perdidos.
+
+https://www.youtube.com/watch?v=xaF08HcOSCQ
+
+# ---------------------------------------------------------------------------------------
+
 Ventoy => https://www.ventoy.net/en/download.html
 
 Ventoy é um utilitário gratuito e de código aberto usado para gravar arquivos de imagem como 
